@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Badal Tripathi
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Deep Learning
 - 📫 Contact me at badaltripathi@gmail.com
 
 <!---
